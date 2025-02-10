@@ -1,6 +1,6 @@
 package binaryalgorithm;
 
-public class bA1 {
+public class binaryalgo {
     public static void main(String[] args) {
 //        total no comprision in worst case are logN
 //        k=log2n
